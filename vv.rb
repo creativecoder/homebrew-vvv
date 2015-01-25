@@ -2,8 +2,8 @@ require 'formula'
 
 class Vv < Formula
   homepage "https://github.com/creativecoder/vv/tree/exygy"
-  url "https://github.com/creativecoder/vv/archive/v20150105.tar.gz"
-  sha1 "edd09be1d0a2bfa48620dfe67da204d3394b62a4"
+  url "https://github.com/creativecoder/vv/archive/v20150123.tar.gz"
+  sha1 "7d7037e59416829a2c801717d5c9ccf7fc7b25b1"
 
   def install
     bin.install "vv"
